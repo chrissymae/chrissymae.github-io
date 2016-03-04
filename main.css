@@ -3,7 +3,7 @@ body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
-  background: #232323;
+  background: rgba(255,255,255,1);
 }
 div {
   height: 200px;
@@ -15,20 +15,20 @@ div {
 h1 {
   font-family: 'Amatic SC', cursive;
   text-align: center;
-  font-size: 100px;
+  font-size: 150px;
   font-weight: 700;
   color: #aaaaaa;
   margin: 40px 0 0 0;
 }
 h2 {
-  text-align: center;
+  text-align: right;
   color: #bbbbbb;
   margin: 0px 0 70px 0;
 }
  ul {
-      color: rgba(225,225,22,1);
+      color: #aaaaaa;
       padding: 10px;
-      background: #4E387E;
+      background: rgba(255,255,255,1);
     }
     li {
       display: inline;
