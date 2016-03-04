@@ -24,6 +24,14 @@ h2 {
   color: #bbbbbb;
   margin: 0px 0 70px 0;
 }
+ ul {
+      padding: 10px;
+      background: #4E387E;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
 p {
   color: rgba(255,255,255,1);
   background: black;
