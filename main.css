@@ -6,7 +6,7 @@ body {
   background: #EBDDE2;
 }
 div {
-  height: 200px;
+  height: 600px;
   background-size: cover;
   position: relative;
   margin: 40px 0 0 0;
@@ -50,16 +50,6 @@ p {
   transition: height .5s;
   -webkit-transition: height .5s;
   -moz-transition: height .5s;
-}
-small {
-  opacity:0;
-}
-.show-description p{
-  height: 150px;
-}
-
-.show-description small {
-  opacity:1;
 }
   
 .first{
