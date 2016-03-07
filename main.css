@@ -2,8 +2,8 @@
 body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
-  max-width: 600px;
-  background: #EBDDE2;
+  max-width: 400px;
+  background: rgba(235,221,226,1);
 }
 div {
   height: 600px;
