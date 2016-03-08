@@ -68,12 +68,6 @@ p {
   background-image: url("/elephantdiet/IMG_20150901_172528.jpg");
   background-position: center;
 }
-.dessert{
-  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
-}
-.price {
-  float: right;
-}
 
 @media (max-width:500px) {
   h1 {
@@ -89,11 +83,11 @@ p {
     margin: 20px 12px 0 12px;
   }
   p {
-    font-size: 20px;
+    font-size: 40px;
     line-height: 24px;
   }
   small {
-    font-size: 16px;
+    font-size: 27px;
   }
 }
 </style>
