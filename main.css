@@ -10,7 +10,6 @@ aside {
     width:20%;
     float:right;
     padding:5px; 
-    margin-top:-500px;
 }
 h1 {
   font-family: 'Amatic SC', cursive;
@@ -46,7 +45,6 @@ h2 {
   margin: 0px 200px 0px 40px;
   font-family: 'Calligraffitti', cursive;
 }
-nav {
   ul {
       color: #aaaaaa;
       padding: 10px;
@@ -59,7 +57,6 @@ li {
       display: inline;
       padding: 0px 30px 0px 30px;
     }
-}
 
 article {
  font-family: 'Calligraffitti', cursive;
