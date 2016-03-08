@@ -17,7 +17,6 @@ div {
     width:20%;
     float:right;
     padding:5px; 
-    Margin-top: -300px;
 }
 h1 {
   font-family: 'Amatic SC', cursive;
@@ -42,6 +41,7 @@ ul {
 li {
       display: inline;
       padding: 0px 10px 0px 10px;
+      text-align:justify;
     }
 p {
   color: rgba(255,255,255,1);
