@@ -8,12 +8,13 @@ body {
 div {
   height: 600px;
   background-size: cover;
-  width:80%;
+  width:67%;
   position: relative;
   margin: 40px 5px 0px;
   border-radius: 12px;
 }
 #aside {
+    position: relative;
     background-color:#eeeeee;
     width:20%;
     float:right;
