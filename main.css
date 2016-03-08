@@ -26,8 +26,27 @@ h1 {
   font-weight: 700;
   color: #aaaaaa;
   margin: 40px 0 0 0;
-  text-decoration: none;
 }
+a:link {
+    text-decoration: none;
+     color: #aaaaaa;
+}
+
+a:visited {
+    text-decoration: none;
+     color: #aaaaaa;
+}
+
+a:hover {
+    text-decoration: underline;
+     color: #aaaaaa;
+}
+
+a:active {
+    text-decoration: underline;
+     color: #aaaaaa;
+}
+
 h2 {
   text-align: right;
   color: #bbbbbb;
