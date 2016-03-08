@@ -12,7 +12,7 @@ div {
   position: relative;
   margin: 40px 5px 0px;
   border-radius: 12px;
-  margin-top: -40px;
+  margin-top: -150px;
 }
 #aside {
     line-height: 30px;
@@ -21,7 +21,7 @@ div {
     width:20%;
     float:right;
     padding:5px; 
-    Margin-top: -40px;
+    Margin-top: -150px;
 }
 h1 {
   font-family: 'Amatic SC', cursive;
