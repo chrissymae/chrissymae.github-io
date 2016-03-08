@@ -10,7 +10,7 @@ div {
   background-size: cover;
   width:75%;
   position: relative;
-  margin: 40px 5px 0px;
+  margin: 40px 5px 5px;
   border-radius: 12px;
   margin-top: -300px;
 }
@@ -34,12 +34,13 @@ h1 {
 h2 {
   text-align: right;
   color: #bbbbbb;
-  margin: 0px 0 70px 40px;
+  margin: 0px 0 100px 40px;
 }
 ul {
       color: #aaaaaa;
       padding: 10px;
-      background: rgba(255,255,255,1);
+      background: rgba(235,221,226,1);
+      position: relative;
     }
 li {
       display: inline;
