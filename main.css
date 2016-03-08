@@ -12,6 +12,14 @@ div {
   margin: 40px 0 0 0;
   border-radius: 12px;
 }
+aside {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:right;
+    padding:5px; 
+}
 h1 {
   font-family: 'Amatic SC', cursive;
   text-align: center;
