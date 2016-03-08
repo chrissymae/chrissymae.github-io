@@ -4,14 +4,7 @@ body {
   margin: 0 auto;
   max-width: 400px;
 }
-div {
-  height: 600px;
-  background-size: cover;
-  width:75%;
-  margin: 5px 5px 5px;
-  border-radius: 12px;
-}
-#aside {
+aside {
     line-height: 30px;
     background-color:#eeeeee;
     width:20%;
@@ -53,7 +46,8 @@ h2 {
   margin: 0px 200px 0px 40px;
   font-family: 'Calligraffitti', cursive;
 }
-ul {
+nav {
+  ul {
       color: #aaaaaa;
       padding: 10px;
       margin-top: 70px;
@@ -65,8 +59,10 @@ li {
       display: inline;
       padding: 0px 30px 0px 30px;
     }
-p {
+}
 
+article {
+ font-family: 'Calligraffitti', cursive;
 }
 
 @media (max-width:500px) {
@@ -79,15 +75,10 @@ p {
     font-size: 20px;
     margin: 20px 0 30px 0;
 }
-  div {
-    margin: 20px 12px 0 12px;
   }
   p {
     font-size: 40px;
     line-height: 24px;
-  }
-  small {
-    font-size: 27px;
   }
 }
 </style>
