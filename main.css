@@ -21,14 +21,14 @@ div {
 }
 h1 {
   font-family: 'Amatic SC', cursive;
-  text-align: right;
+  text-align: center;
   font-size: 150px;
   font-weight: 700;
   color: #aaaaaa;
   margin: 40px 0 0 0;
 }
 h2 {
-  text-align: center;
+  text-align: right;
   color: #bbbbbb;
   margin: 0px 200px 0px 40px;
 }
@@ -37,7 +37,7 @@ ul {
       padding: 10px;
       position: relative;
       margin-top: 70px;
-      text-align: justify
+      text-align: justify;
     }
 li {
       display: inline;
