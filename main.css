@@ -8,9 +8,9 @@ body {
 div {
   height: 600px;
   background-size: cover;
-  width:67%;
+  width:75%%;
   position: relative;
-  margin: 40px 5px 0px;
+  margin: 0px 5px 0px;
   border-radius: 12px;
 }
 #aside {
@@ -19,6 +19,7 @@ div {
     width:20%;
     float:right;
     padding:5px; 
+    margin: 0px;
 }
 h1 {
   font-family: 'Amatic SC', cursive;
