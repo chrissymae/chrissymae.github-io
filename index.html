@@ -24,6 +24,7 @@
 </nav>
 
 <aside>
+<p> Hello, I'm Chrissy, welcome to my blog.</p>
 <img src="/elephantdiet/IMG_20150825_161945.jpg" alt="Me" style="width:100px;height:100px;">
     <input type="email" placeholder="Contact me">
         <input type="submit">
@@ -34,13 +35,9 @@
 </aside>
 
 <article>
-{% for post in posts %}
-    <div>
-        <p>published: {{ post.published_date }}</p>
-        <h1><a href="">{{ post.title }}</a></h1>
-        <p>{{ post.text|linebreaks }}</p>
-    </div>
-{% endfor %}
+<h3>Rhubarb & Berry Crumble <span>9th March 2016</span></h3>
+<img src=>
+<p>Here's how I made this...</p>
 </article>
 
 </body>
