@@ -10,7 +10,7 @@ aside {
     float:right;
     padding:5px; 
     font-family: helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 10px;
 }
 input {
     border: 0;
@@ -80,6 +80,7 @@ h3 {
 
 .date {
   float: right;
+  padding: 5px;
 }
   
 article {
