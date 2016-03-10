@@ -11,7 +11,17 @@ aside {
     float:right;
     padding:5px; 
     font-family: helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
+}
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: blue;
+      color: white;
+    }
 }
 h1 {
   font-family: 'Amatic SC', cursive;
@@ -65,8 +75,7 @@ h3 {
   color: #666666;
   font-family: 'Calligraffitti', cursive;
   font-size: 35px;
-  padding: 5px;
-  margin-top= -20px;
+  padding-right: 5px;
 }
 
 .date {
