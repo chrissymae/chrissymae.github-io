@@ -5,13 +5,13 @@ body {
   max-width: 400px;
 }
 aside {
-    line-height: 20px;
+    line-height: 30px;
     background-color:#eeeeee;
     width:20%;
     float:right;
     padding:5px; 
     font-family: helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 h1 {
   font-family: 'Amatic SC', cursive;
@@ -65,6 +65,8 @@ h3 {
   color: #666666;
   font-family: 'Calligraffitti', cursive;
   font-size: 35px;
+  padding: 5px;
+  margin-top= -20px;
 }
 
 .date {
